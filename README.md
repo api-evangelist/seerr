@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Seerr (Overseerr + Jellyseerr) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://seerr.dev/
+Seerr is a free, open‑source request‑management and media discovery platform that unifies the capabilities of Overseerr and Jellyseerr. It enables users of Jellyfin, Plex and Emby to request, discover and organize media content through a modern web interface, supporting integrations with Radarr, Sonarr and other automation tools.
+
+**Areas:** Media Discovery · Request Management · Open Source · Media Server Integration · Automation Integration · Permissions · Notifications
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://seerr.dev/)
+- [Documentation](https://docs.seerr.dev/)
+- [Getting started](https://docs.seerr.dev/getting-started/)
+- [Changelog](https://github.com/seerr-team/seerr/releases)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/seerr/](https://apis.io/providers/seerr/).
